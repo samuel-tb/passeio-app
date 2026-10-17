@@ -1,0 +1,69 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação"
+    },
+    {
+      "nome": "Shoppings",
+      "descricao": "Para fazer compras e passear",
+      "id": "ZPwKfXIC7L8"
+    },
+    {
+      "nome": "Praias",
+      "descricao": "Lugares para tomar banho com a familia",
+      "id": "kHZ3RT0weGE"
+    },
+    {
+      "nome": "Parques",
+      "descricao": "Lugar para se divertir com a família",
+      "id": "bzVXaJ_rLqk"
+    },
+    {
+      "nome": "Lan House",
+      "descricao": "Lugar para jogar e se divertir com os amigos",
+      "id": "7I5jwATFAIg"
+    },
+    {
+      "nome": "Estádio de Futebol",
+      "descricao": "Lugar para assistir jogos de futebol do seu time de corção",
+      "id": "ZQbr6JdcJ1c"
+    }
+  ],
+  "lugares": [
+    {
+      "nome": "Shopping Cachoeiro",
+      "categoria": "Shoppings",
+      "localizacao": "Cachoeiro de Itapemirim, ES",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTG9htYzxmlMsJNBPvvtXaHroo0hx9WEP09pPezkAMsHGKZWMuFQ3EvRI&s=10",
+      "avaliacao": "3",
+      "id": "68s8gca31aM"
+    },
+    {
+      "nome": "Praia de Itaipava",
+      "categoria": "Praias",
+      "localizacao": "Itaipava, ES",
+      "urlFoto": "https://www.praias-360.com.br/img-600/es/itapemirim/es-itapemirim-praia-de-itaipava-020.jpg",
+      "avaliacao": "4",
+      "id": "zlB5fQ-XFV4"
+    },
+    {
+      "nome": "Parque Ibirapuera",
+      "categoria": "Parques",
+      "localizacao": "São Paulo, SP",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbdl_kIuPaaV86Blft6-Gsub4MElENfU12u0YmXtV1Fb9kJdBw1ADXyJVT&s=10",
+      "avaliacao": "4",
+      "id": "HQVOdbVMf0M"
+    },
+    {
+      "nome": "Sumaré",
+      "categoria": "Estádio de Futebol",
+      "localizacao": "Cachoeiro de Itapemirim, ES",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVoZMjFrNDsm_dDxNEGlBSkQNvGXwrUVBcncsiUYMPj22v_KNLTspqcOE&s=10",
+      "avaliacao": "5",
+      "id": "Xiin4vDzf_0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
