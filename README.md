@@ -4,10 +4,10 @@ O **Passeio App** é uma aplicação web desenvolvida em Angular para ajudar a o
 
 ## Funcionalidades
 
-- **Autenticação Google:** Login simples e seguro utilizando a sua conta Google[cite: 11].
-- **Galeria de Lugares:** Uma tela onde você pode visualizar todos os locais que já cadastrou, apresentados em cards detalhados com foto, localização e avaliação (em estrelas)[cite: 12].
-- **Gestão de Categorias:** Cadastre novas categorias de lugares para manter tudo organizado (ex: Praias, Shoppings, Restaurantes, Parques)[cite: 13].
-- **Cadastro de Lugares:** Adicione novos locais à sua lista[cite: 14]. É possível associá-los a uma categoria existente, inserir a localização, atribuir uma avaliação e colocar o link para uma foto do espaço[cite: 14].
+- **Autenticação Google:** Login simples e seguro utilizando a sua conta Google.
+- **Galeria de Lugares:** Uma tela onde você pode visualizar todos os locais que já cadastrou, apresentados em cards detalhados com foto, localização e avaliação (em estrelas).
+- **Gestão de Categorias:** Cadastre novas categorias de lugares para manter tudo organizado (ex: Praias, Shoppings, Restaurantes, Parques).
+- **Cadastro de Lugares:** Adicione novos locais à sua lista. É possível associá-los a uma categoria existente, inserir a localização, atribuir uma avaliação e colocar o link para uma foto do espaço.
 - **Logout:** Opção rápida para deslogar e voltar à página principal.
 
 ## Tecnologias Utilizadas
